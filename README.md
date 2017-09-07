@@ -1,6 +1,6 @@
 # maximum-clique
 
-To find Maximum Clique using Preferential Attachment based on Ant Colony Optimization.
+## To find Maximum Clique using Preferential Attachment based on Ant Colony Optimization.
 
 Repository contains the project report for a program that I wrote for my major project during engineering school.
 
